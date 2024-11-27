@@ -1,5 +1,5 @@
 // Import the Supabase client
-import supabase from "./supabase.js"; // Ensure the path to supabase.js is correct
+import supabase from "./supabase"; // Ensure the path to supabase.js is correct
 
 // DOM elements
 const uploadForm = document.getElementById("upload-form");
