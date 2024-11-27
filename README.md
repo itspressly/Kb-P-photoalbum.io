@@ -1,5 +1,1 @@
-project URl
-
-
-anon key
 
